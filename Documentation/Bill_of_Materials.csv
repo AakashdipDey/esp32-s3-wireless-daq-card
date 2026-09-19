@@ -1,0 +1,14 @@
+Designator,Quantity,Component Name,Description,Manufacturer,Manufacturer Part Number,Package / Footprint
+U1,1,ESP32-S3 Mini DevBoard,"2.4 GHz Wi-Fi & Bluetooth 5 (LE) Dual-Core SoC Module, 8MB Flash",Espressif Systems,ESP32-S3-DEVKITM-1-N8,Module / Header
+U2,1,TI ADS1115,"16-Bit Delta-Sigma ADC with Integrated PGA, Comparator, and Reference",Texas Instruments,ADS1115IRUGR,QFN-10 (RUG10)
+U3,1,TI INA333,"Precision, Low-Power, 25uV Offset, 100dB CMRR Instrumentation Amplifier",Texas Instruments,INA333AIDGKT,8-VSSOP (DGK0008A)
+U4,1,Microchip MCP4725,12-Bit Digital-to-Analog Converter (DAC) with I2C Interface and EEPROM,Microchip Technology,MCP4725A0T-E/CH,SOT-23-6
+U5,1,AMS1117-3.3,"1A Low Dropout Linear Voltage Regulator, 3.3V Fixed Output",Advanced Monolithic Systems,AMS1117-3.3,SOT-223-3
+U6,1,Microchip LM4040,Precision 2.5V 1% Micropower Shunt Voltage Reference,Microchip Technology,LM4040DYM3-2.5-TR,SOT-23-3
+D1,1,SMAJ26CA,400W 26V Bidirectional Surface Mount TVS Surge Diode,Littelfuse Inc.,SMAJ26CA,DO-214AC (SMA)
+DS1,1,HSMG-C170,"High-Efficiency Green SMD LED, 2.2V 20mA (Power Status)",Avago / Broadcom,HSMG-C170,0805 SMD
+J1,1,Wurth 10-Pin Header,"10-Pin Vertical Male Breakout Header, 2.54mm Pitch",Wurth Elektronik,61301011121,HDR_2X5_2.54MM
+"C1, C2, C3, C4",4,100nF Cap,Capacitor Ceramic 0.1uF 25V 10% X7R AEC-Q200 Decoupling,Taiyo Yuden,TMK107B7104KAHT,0603 SMD
+"R4, R5",2,2.2k Resistor,Resistor SMD 2.2k Ohm 5% 1/16W (I2C Bus Pullups),Yageo,RC0402JR-072K2L,0402 SMD
+R3,1,100R Resistor,Resistor SMD 100 Ohm 1% 1/16W,Yageo,RC0402JR-07100RL,0402 SMD
+R6,1,4.7k Resistor,Resistor SMD 4.7k Ohm 5% 0.5W Power Resistor,Yageo,RC1210JR-074K7L,1210 SMD
